@@ -11,7 +11,7 @@ O jogador controla uma caveira chamada Cappo que trabalha como garçonete em um 
 * Jaqueline Faria de Queiroz
 * Natasha Barreira Flausino
 
-#Orientadores
+# Orientadores
 
 Reinaldo Augusto de Oliveira Ramos
 Deborah Magnani de Oliveira
