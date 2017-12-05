@@ -11,6 +11,10 @@ O jogador controla uma caveira chamada Cappo que trabalha como garçonete em um 
 * Jaqueline Faria de Queiroz
 * Natasha Barreira Flausino
 
+# LINK Itch.io
+
+(link)
+
 # Orientadores
 
 * Reinaldo Augusto de Oliveira Ramos
