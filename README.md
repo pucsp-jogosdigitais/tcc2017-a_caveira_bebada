@@ -13,7 +13,7 @@ O jogador controla uma caveira chamada Cappo que trabalha como garçonete em um 
 
 # LINK Itch.io
 
-(link)
+https://babychan.itch.io/a-caveira-bbada
 
 # Orientadores
 
