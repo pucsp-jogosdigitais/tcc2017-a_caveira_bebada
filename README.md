@@ -18,10 +18,16 @@ O jogador controla uma caveira chamada Cappo que trabalha como garçonete em um 
 
 # Imagens do jogo:
 
-Inserir imagens do jogo.
+![](https://github.com/pucsp-jogosdigitais/tcc2017-a_caveira_bebada/blob/master/ACAVEIRABEBADA-Logotipo.png?raw=true)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-a_caveira_bebada/blob/master/02.jpg?raw=true)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-a_caveira_bebada/blob/master/01.jpg?raw=true)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-a_caveira_bebada/blob/master/WhatsApp%20Image%202017-11-28%20at%2002.36.28.jpeg?raw=true)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-a_caveira_bebada/blob/master/WhatsApp%20Image%202017-11-28%20at%2002.33.02.jpeg?raw=true)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-a_caveira_bebada/blob/master/WhatsApp%20Image%202017-11-28%20at%2002.29.20.jpeg?raw=true)
+
 
 # Informações de como compilar o jogo:
 
-Descriver aqui quais são as ferramentas necessárias para alterar e compilar o jogo a partir do código fonte.
+Utilizamos o programa UNITTY 5.6.1.F1
 
 **OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
