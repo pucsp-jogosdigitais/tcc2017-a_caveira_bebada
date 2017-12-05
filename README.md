@@ -1,13 +1,20 @@
-# Nome do projeto
+# A Caveira Bêbada
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+Aventura com Elementos de Point & Click.
+O jogador controla uma caveira chamada Cappo que trabalha como garçonete em um bistrô numa cidade turística chamada B.Limbo, este apenas trabalha no local para sustentar seu vício de beber leite. Quando o bistrô explode, a culpa cai em cima de Cappo e ele recis recuperar sua reputação!
+
 
 # Nome compledo dos integrantes do projeto:
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Barbara Song Brito
+* Caroline dos Santos Ruiz
+* Jaqueline Faria de Queiroz
+* Natasha Barreira Flausino
+
+#Orientadores
+
+Reinaldo Augusto de Oliveira Ramos
+Deborah Magnani de Oliveira
 
 # Imagens do jogo:
 
