@@ -13,8 +13,8 @@ O jogador controla uma caveira chamada Cappo que trabalha como garçonete em um 
 
 # Orientadores
 
-Reinaldo Augusto de Oliveira Ramos
-Deborah Magnani de Oliveira
+* Reinaldo Augusto de Oliveira Ramos
+* Deborah Magnani de Oliveira
 
 # Imagens do jogo:
 
